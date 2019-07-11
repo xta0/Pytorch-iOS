@@ -1,9 +1,5 @@
 //
-//  Predictor.h
-//  Pytorch-iOS-Device
-//
-//  Created by taox on 7/10/19.
-//  Copyright © 2019 Facebook. All rights reserved.
+//  Copyright © 2016年 Vizlab. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
