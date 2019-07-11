@@ -4,7 +4,7 @@ A simple image classification app based on ResNet18. Currently the code is only 
 
 ### libtorch.a
 
-All `.a` files in this repo are static libraries that were generated using cmake based on code from the master branch of Pytorch, meaing they shouldn't be used for production as Pytorch is still under development by Facebook. Stay tuned.
+As this is not the final stage of Pytorch, all the `.a` files are were generated via cmake based on the code from master branch of [Pytorch](https://github.com/pytorch/pytorch), which are too big to upload and therefore, are not ready for the production to use. I'll recompile and upload the missing libs later after the Facebook release the Pytorch 1.2.
 
 ### Demo
 
