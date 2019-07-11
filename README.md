@@ -17,4 +17,4 @@ To run the demo on device,  an Apple developer account is required, other than t
 
 ### Screen Shot
 
-<img src="./screenshot.png" width="200">
+<img src="./screenshot.png" width="480">
