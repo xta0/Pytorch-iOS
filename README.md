@@ -1,6 +1,6 @@
 ## Pytorch-iOS
 
-A simple image classification app based on ResNet18. Currently the code is available only on iOS devices. 
+A simple image classification app based on ResNet18. Currently the code is only available on iOS devices. 
 
 ### libtorch.a
 
@@ -15,4 +15,4 @@ To run the demo on device,  an Apple developer account is required, other than t
 - Check to see the `header/lib search path` has been set properly accroding to your local environment
 - For the testing purpose, we can simply add `-load_all` as a linker flag to load all the symbols in `.a`
 
-![](screenshot.png | width = 200)
+![](./screenshot.png)
