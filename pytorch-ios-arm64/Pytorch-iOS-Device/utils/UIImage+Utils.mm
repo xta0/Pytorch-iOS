@@ -1,9 +1,5 @@
 //
-//  UIImage+Utils.m
-//  Pytorch-iOS-Device
-//
-//  Created by taox on 7/5/19.
-//  Copyright © 2019 Facebook. All rights reserved.
+//  Copyright © 2019年 Vizlab. All rights reserved.
 //
 
 #import "UIImage+Utils.h"

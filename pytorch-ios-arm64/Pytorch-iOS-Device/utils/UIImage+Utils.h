@@ -1,7 +1,6 @@
 //
-//  Copyright © 2016年 Vizlab. All rights reserved.
+//  Copyright © 2019年 Vizlab. All rights reserved.
 //
-
 
 #import <UIKit/UIKit.h>
 #import <memory>
