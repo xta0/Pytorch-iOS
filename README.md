@@ -1,14 +1,14 @@
 ## Pytorch-iOS-Demos
 
-A simple image classification app based on ResNet18. Currently the code is only available on iOS devices. 
+A simple image classification app based on ResNet18. Currently the code is only available on iOS devices.
 
 ### libtorch.a
 
-All `.a` files in this repo are static libraries that were generated using cmake based on code from the master branch of Pytorch. They're not ready for production use as Pytorch is still under development by Facebook, stay tuned.
+All `.a` files in this repo are static libraries that were generated using cmake based on code from the master branch of Pytorch, meaing they shouldn't be used for production as Pytorch is still under development by Facebook. Stay tuned.
 
 ### Demo
 
-To run the demo on device,  an Apple developer account is required, other than that, just clone the code and everything should be compiled in XCode, feel free to open issues.
+To run the demo on device,  an Apple developer account is required, other than that, just clone the code and everything should be compiled in XCode. The demo is just for testing purpose, feel free to open issues.
 
 ### Trouble Shooting
 
