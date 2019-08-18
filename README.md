@@ -1,4 +1,4 @@
-## Pytorch-iOS-Demos
+## Sat842
 
 A simple image classification app based on ResNet18. Currently the code is only available on iOS devices.
 
